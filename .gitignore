@@ -3,3 +3,7 @@ the_eye/__pycache__/__init__.cpython-39.pyc
 env/
 the_eye/__pycache__/settings.cpython-39.pyc
 the_eye/__pycache__/urls.cpython-39.pyc
+the_eye/the_eye/__pycache__/models.cpython-39.pyc
+the_eye/the_eye/__pycache__/serializers.cpython-39.pyc
+the_eye/the_eye/__pycache__/views.cpython-39.pyc
+the_eye/the_eye/__pycache__/__init__.cpython-39.pyc

@@ -1,7 +1,8 @@
+from the_eye.the_eye.models import Event
 from rest_framework import serializers
 
 
-class UserSerializer(serializers.HyperlinkedModelSerializer):
+class EventSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
-        model = User
-        fields = ['url', 'username', 'email', 'groups']
+        model = Event
+        fields = ['session_id', 'category', 'data', 'timestamp']
