@@ -7,3 +7,9 @@ the_eye/the_eye/__pycache__/models.cpython-39.pyc
 the_eye/the_eye/__pycache__/serializers.cpython-39.pyc
 the_eye/the_eye/__pycache__/views.cpython-39.pyc
 the_eye/the_eye/__pycache__/__init__.cpython-39.pyc
+the_eye/__pycache__/wsgi.cpython-39.pyc
+the_eye/migrations/__init__.py
+.gitignore
+the_eye/migrations/0001_initial.py
+the_eye/migrations/__pycache__/__init__.cpython-39.pyc
+the_eye/migrations/__pycache__/0001_initial.cpython-39.pyc
