@@ -6,3 +6,6 @@ class Event(models.Model):
     category = models.CharField(max_length=150)
     data = models.JSONField()
     timestamp = models.TimeField(auto_now=True)
+
+    class Meta:
+        ordering = ['timestamp']
